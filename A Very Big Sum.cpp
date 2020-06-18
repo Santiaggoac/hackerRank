@@ -2,10 +2,6 @@
 
 using namespace std;
 
-//int aVeryBigSum(int);
-//res = aVeryBigSum(arr[n]);
-
-
 int main(){
     int n = 0;
     cin >> n;
